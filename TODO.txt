@@ -1,0 +1,11 @@
+1. Rest api - pogledati video i zabilježiti detalje. Pogledao objašnjenje do upotrebe Postmana i Pythona, ne znam da li trebam skinuti Python na virtualnu mašinu ili?
+2. Learn ssh - naći tutorijal. Pregledao, shvatio šta je, bez primjene?
+3. Json podaci, django
+
+Pull request github done!
+Copy paste enabled on VM!
+Git and GitHub is now much clearer
+
+Print git cheat and python cheat!
+
+
